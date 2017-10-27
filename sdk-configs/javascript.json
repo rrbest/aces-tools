@@ -1,3 +1,11 @@
 {
-
+	"options": 
+	{
+		apiPackage:"aces_listener_api_client",
+		variableNamingConvention:"snake_case"
+	}
+	"spec":
+	{
+		"swagger": "2.0"
+	}
 }

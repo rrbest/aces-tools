@@ -1,3 +1,10 @@
 {
-
+	"options": 
+	{
+		apiPackage:"aces_listener_api_client"
+	}
+	"spec":
+	{
+		"swagger": "2.0"
+	}
 }

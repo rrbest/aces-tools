@@ -1,3 +1,13 @@
 {
-  
+	"options": 
+	{
+		packageName:"aces_listener_api_client",
+		projectName:"aces-listener-api",
+		packageVersion:"0.1.0"
+
+	}
+	"spec":
+	{
+		"swagger": "2.0"
+	}
 }
