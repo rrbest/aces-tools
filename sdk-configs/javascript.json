@@ -1,8 +1,7 @@
 {
 	"options": 
 	{
-		apiPackage:"aces_listener_api_client",
-		variableNamingConvention:"snake_case"
+		apiPackage:"aces-listener-client",
 	}
 	"spec":
 	{

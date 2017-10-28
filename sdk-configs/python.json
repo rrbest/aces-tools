@@ -1,8 +1,8 @@
 {
 	"options": 
 	{
-		packageName:"aces_listener_api_client",
-		projectName:"aces-listener-api",
+		packageName:"arkaces_listener_client",
+		projectName:"arkaces-listener-client",
 		packageVersion:"0.1.0"
 
 	}

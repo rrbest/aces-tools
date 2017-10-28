@@ -1,8 +1,10 @@
 {
 	"options": 
 	{
-		apiPackage:"aces_listener_api_client",
+		apiPackage:"\ArkAces\ListenerClient",
 		variableNamingConvention:"snake_case"
+		gitUserId:"ark-aces"
+		gitRepoId:"aces-encoded-listener-api"
 	}
 	"spec":
 	{

@@ -1,7 +1,7 @@
 {
 	"options": 
 	{
-		packageName:"aces_listener_api_client",
+		packageName:"aces.listener.client",
 		packageVersion:"0.1.0"
 
 	}
