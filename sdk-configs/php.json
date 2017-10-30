@@ -1,11 +1,11 @@
 {
 	"options": 
 	{
-		apiPackage:"\ArkAces\ListenerClient",
-		variableNamingConvention:"snake_case"
-		gitUserId:"ark-aces"
-		gitRepoId:"aces-encoded-listener-api"
-	}
+		"apiPackage":"ArkAcesListenerClient",
+		"variableNamingConvention":"snake_case",
+		"gitUserId":"ark-aces",
+		"gitRepoId":"aces-encoded-listener-api"
+	},
 	"spec":
 	{
 		"swagger": "2.0"

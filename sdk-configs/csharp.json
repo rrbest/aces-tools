@@ -1,10 +1,10 @@
 {
 	"options": 
 	{
-		packageName:"aces.listener.client",
-		packageVersion:"0.1.0"
+		"packageName":"arkaces.listener.client",
+		"packageVersion":"0.1.0"
 
-	}
+	},
 	"spec":
 	{
 		"swagger": "2.0"

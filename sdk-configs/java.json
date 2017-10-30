@@ -1,10 +1,9 @@
 {
 	"options": 
 	{
-		apiPackage:"aces_listener_api_client"
-		packageURL:"https://github.com/ark-aces/aces-encoded-listener-api"
-		packageVersion:"0.1.0"
-	}
+		"apiPackage":"com.arkaces.listener_api_client",
+		"packageVersion":"0.1.0"
+	},
 	"spec":
 	{
 		"swagger": "2.0"

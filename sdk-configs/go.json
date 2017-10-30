@@ -1,10 +1,10 @@
 {
 	"options": 
 	{
-		packageName:"aceslistenerclient",
-		packageVersion:"0.1.0"
+		"packageName":"aceslistenerclient",
+		"packageVersion":"0.1.0"
 
-	}
+	},
 	"spec":
 	{
 		"swagger": "2.0"

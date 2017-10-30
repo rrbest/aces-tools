@@ -1,11 +1,11 @@
 {
 	"options": 
 	{
-		packageName:"arkaces_listener_client",
-		projectName:"arkaces-listener-client",
-		packageVersion:"0.1.0"
+		"packageName":"arkaces_listener_client",
+		"projectName":"arkaces-listener-client",
+		"packageVersion":"0.1.0"
 
-	}
+	},
 	"spec":
 	{
 		"swagger": "2.0"

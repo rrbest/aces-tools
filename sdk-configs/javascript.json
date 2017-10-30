@@ -1,8 +1,8 @@
 {
 	"options": 
 	{
-		apiPackage:"aces-listener-client",
-	}
+		"apiPackage":"arkaces-listener-client"
+	},
 	"spec":
 	{
 		"swagger": "2.0"
